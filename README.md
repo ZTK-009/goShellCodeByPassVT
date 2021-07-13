@@ -25,4 +25,4 @@ b64body = ""
 ## 三丶免杀情况
 截至2021/7/10 幸免于世
 ![image-20210710145910623](https://typora-mine.oss-cn-beijing.aliyuncs.com/typora/image-20210710145910623.png)
-ps：插一句题外话，现在应该被杀了，但是改改又是一条好汉
+
