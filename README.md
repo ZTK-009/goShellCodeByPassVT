@@ -16,7 +16,8 @@ go build -ldflags "-s -w" -race main.go
 inProcessName    =    "exploer.exe"
 ~~~
 
-shellcode生成后使用base64编码一次放入**b64body**即可    //使用\x这种格式的shellcode，如：\xfc\x48\x83\xe4\xf0\xe8\xc8\x00\x00\x00
+shellcode生成后使用base64编码一次放入**b64body**即可    
+//使用\x这种格式的shellcode，如：\xfc\x48\x83\xe4\xf0\xe8\xc8\x00\x00\x00
 ~~~go
 b64body = ""
 ~~~
