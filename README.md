@@ -1,6 +1,6 @@
 # goShellCodeByPassVT
 
-## 一丶公众号文章
+## 一丶文章
 [Go编译-race参数实现VT全免杀](https://mp.weixin.qq.com/s/GrS6Kf7ZTDHT6cz_W1flfw)
 
 ## 二丶命令
